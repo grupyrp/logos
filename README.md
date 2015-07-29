@@ -1,4 +1,4 @@
 Logos Grupy-RP
 ==============
 
-Repositório para os logos do grupy-RP
+Repositório para as logos do Grupy-RP
